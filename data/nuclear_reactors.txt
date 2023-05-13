@@ -1,4 +1,4 @@
-Name,"Unit No.",Reactor Type,Reactor Model,Status,Net capacity (MW),Construction start,Commercial operation,Closure
+Name,Unit No.,Reactor Type,Reactor Model,Status,Net capacity (MW),Construction start,Commercial operation,Closure
 Arkansas Nuclear One,1,PWR,B & W (DRY-Cont),Operational,836,1 October 1968,21 May 1974,
 Arkansas Nuclear One,2,PWR,CE (DRY),Operational,988,6 December 1968,1 September 1978,
 Beaver Valley,1,PWR,WH 3-loop (DRY),Operational,908,26 June 1970,2 July 1976,
