@@ -1,0 +1,60 @@
+Name,Hull Nr.,Class,Reactor,Nr. Reactor,reference
+George Washington, SSBN 5982, 598, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Patrick Henry, SSBN 599, 598, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Theodore Roosevelt, SSBN 600, 598, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Robert E. Lee, SSBN 601, 598, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Abraham Lincoln, SSBN 602, 598, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Ethan Allen, SSBN 608, 608, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Sam Houston, SSBN 609, 608, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Thomas A. Edison, SSBN 610, 608, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+John Marshall, SSBN 611, 608, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Thomas Jefferson, SSBN 618, 608, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Lafayette, SSBN 616, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Alexander Hamilton, SSBN 617, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Andrew Jackson, SSBN 619, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+John Adams, SSBN 620, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+James Monroe, SSBN 622, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Nathan Hale, SSBN 623, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Woodrow Wilson, SSBN 624, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Henry Clay, SSBN 625, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Daniel Webster 3, SSBN 626, 616, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+James Madison, SSBN 627, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Tecumseh, SSBN 628, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Daniel Boone, SSBN 629, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+John C. Calhoun, SSBN 630, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Ulysses S. Grant, SSBN 631, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Von Steuben, SSBN 632, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Casimir Pulaski, SSBN 633, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Stonewall Jackson, SSBN 634, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Sam Rayburn 4, SSBN 635, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Nathanael Greene, SSBN 636, 627, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Benjamin Franklin, SSBN 640, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Simon Bolivar, SSBN 641, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Kamehameha, SSBN 642, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+George Bancroft, SSBN 643, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Lewis and Clark, SSBN 644, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+James K. Polk, SSBN 645, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+George C. Marshall, SSBN 654, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Henry L. Stimson, SSBN 655, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Geo. Washington Carver, SSBN 656, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Francis Scott Key, SSBN 657, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Mariano G. Vallejo, SSBN 658, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Will Rogers, SSBN 659, 640, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Ohio 5, SSGN 726, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Michigan 5, SSGN 727, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Florida 5, SSGN 728, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Georgia 5, SSGN 729, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Henry M. Jackson, SSBN 730, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Alabama, SSBN 731, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Alaska, SSBN 732, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Nevada, SSBN 733, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Tennessee, SSBN 734, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Pennsylvania, SSBN 735, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+West Virginia, SSBN 736, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Kentucky, SSBN 737, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Maryland, SSBN 738, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Nebraska, SSBN 739, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Rhode Island, SSBN 740, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Maine, SSBN 741, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Wyoming, SSBN 742, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)
+Louisiana, SSBN 743, 726, S8G, 1, https://en.wikipedia.org/wiki/USS_Ohio_(SSGN-726)

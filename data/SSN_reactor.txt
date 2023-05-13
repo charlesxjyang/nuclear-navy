@@ -1,0 +1,160 @@
+Name,Hull Nr.,Class,Reactor,Nr. Reactor,reference
+Nautilus, SSN 571, 571, S2W, 1, https://www.energy.gov/sites/default/files/2013/08/f2/HewlettandDuncanNuclearNavyComplete.pdf#pg=415
+Seawolf, SSN 575, 575, S2G, 1, https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-575)
+Skate, SSN 5782, 578, S3W, 1, https://en.wikipedia.org/wiki/USS_Skate_(SSN-578) 
+Swordfish, SSN 579, 578, S3W, 1, https://en.wikipedia.org/wiki/USS_Skate_(SSN-578)
+Sargo, SSN 583, 578, S3W, 1, https://en.wikipedia.org/wiki/USS_Skate_(SSN-578) 
+Seadragon, SSN 584, 578, S3W, 1, https://en.wikipedia.org/wiki/USS_Skate_(SSN-578)
+Skipjack, SSN 5825, 585, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Triton, SSN 586, 586, S4G, 2, https://www.jstor.org/stable/resrep14271.18?seq=2
+Halibut, SSN 587, 587, S3W, 1, https://en.wikipedia.org/wiki/USS_Halibut_(SSGN-587)
+Scamp, SSN 588, 585, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Scorpion, SSN 589, 585, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Sculpin, SSN 590, 585, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Shark, SSN 591, 585, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Snook, SSN 592, 585, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Permit, SSN 594, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Thresher, SSN 593, 594, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Plunger, SSN 595, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Barb, SSN 596, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Pollack, SSN 603, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Haddo, SSN 604, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Jack, SSN 605, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Tinosa, SSN 606, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Dace, SSN 607, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Guardfish, SSN 612, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Flasher, SSN 613, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Greenling, SSN 614, 594, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Gato, SSN 615, 594, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Haddock, SSN 621, 594,S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Tullibee, SSN 597, 597, S2C, 1, https://www.energy.gov/sites/default/files/2013/08/f2/HewlettandDuncanNuclearNavyComplete.pdf#pg=415
+Sturgeon, SSN 637, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Whale, SSN 638, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Tautog, SSN 639, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Grayling, SSN 646, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Pogy, SSN 647, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Aspro, SSN 648, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Sunfish, SSN 649, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Pargo, SSN 650, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Queenfish, SSN 651, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Puffer, SSN 652, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Ray, SSN 653, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Sand Lance, SSN 660, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Lapon, SSN 661, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Gurnard, SSN 662, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Hammerhead, SSN 663, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Sea Devil, SSN 664, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Guitarro, SSN 665, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Hawkbill, SSN 666, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Bergall, SSN 667, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Spadefish, SSN 668, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Seahorse, SSN 669, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Finback, SSN 670, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Pintado, SSN 672, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Flying Fish, SSN 673, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Trepang, SSN 674, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Bluefish, SSN 675, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Billfish, SSN 676, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Drum, SSN 677, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Archerfish, SSN 678, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Silversides, SSN 679, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+William H. Bates, SSN 680, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Batfish, SSN 681, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Tunny, SSN 682, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Parche, SSN 683, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Cavalla, SSN 684, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+L. Mendel Rivers, SSN 686, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Richard B. Russell, SSN 687, 637, S5W, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Narwhal, SSN 671, 671, S5G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2 
+Glenard P. Lipscomb, SSN 685, 685, S5W, 1, https://en.wikipedia.org/wiki/USS_Glenard_P._Lipscomb
+Los Angeles, SSN 688, 688,  S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Baton Rouge, SSN 689, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Philadelphia, SSN 690, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Memphis, SSN 691, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Omaha, SSN 692, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Cincinnati, SSN 693, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Groton, SSN 694, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Birmingham, SSN 695, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+New York City, SSN 696, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Indianapolis, SSN 697, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Bremerton, SSN 698, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Jacksonville, SSN 699, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Dallas, SSN 700, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+La Jolla, SSN 701, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Phoenix, SSN 702, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Boston, SSN 703, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Baltimore, SSN 704, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+City of Corpus Christi, SSN 705, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Albuquerque, SSN 706, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Portsmouth, SSN 707, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Minneapolis–St. Paul, SSN 708, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Hyman G. Rickover, SSN 709, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Augusta, SSN 710, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+San Francisco, SSN 711, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Atlanta, SSN 712, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Houston, SSN 713, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Norfolk, SSN 714, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Buffalo, SSN 715, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Salt Lake City, SSN 716, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Olympia, SSN 717, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Honolulu, SSN 718, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Providence, SSN 719, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Pittsburgh, SSN 720, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Chicago, SSN 721, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Key West, SSN 722, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Oklahoma City, SSN 723, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Louisville, SSN 724, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Helena, SSN 725, 688, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Newport News, SSN 750, 688,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+San Juan, SSN 751, 688i2,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Pasadena, SSN 752, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Albany, SSN 753, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Topeka, SSN 754, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Miami, SSN 755, 688i,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Scranton, SSN 756, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Alexandria, SSN 757, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Asheville, SSN 758, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Jefferson City, SSN 759, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Annapolis, SSN 760, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Springfield, SSN 761, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Columbus, SSN 762, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Santa Fe, SSN 763, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Boise, SSN 764, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Montpelier, SSN 765, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Charlotte, SSN 766, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Hampton, SSN 767, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Hartford, SSN 768, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Toledo, SSN 769, 688i,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Tucson, SSN 770, 688i,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Columbia, SSN 771, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Greeneville, SSN 772, 688i,S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Cheyenne, SSN 773, 688i, S6G, 1, https://www.jstor.org/stable/resrep14271.18?seq=2
+Seawolf, SSN 021, 021, S6W, 1, https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-21) 
+Connecticut, SSN 022, 021, S6W, 1, https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-21) 
+Jimmy Carter, SSN 023, 021, S6W, 1, https://en.wikipedia.org/wiki/USS_Seawolf_(SSN-21) 
+Virginia, SSN 774, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774) 
+Texas, SSN 775, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Hawaii, SSN 776, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774) 
+North Carolina, SSN 777, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+New Hampshire, SSN 778, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774) 
+New Mexico, SSN 779, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Missouri, SSN 780, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774) 
+California, SSN 781, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Mississippi, SSN 782, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774) 
+Minnesota, SSN 783, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+North Dakota, SSN 784, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774) 
+John Warner, SSN 785, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Illinois, SSN 786, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Washington, SSN 787, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Colorado, SSN 788, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Indiana, SSN 789, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+South Dakota, SSN 790, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Delaware, SSN 791, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Vermont, SSN 792, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Oregon, SSN 793, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Montana, SSN 794, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Hyman G. Rickover, SSN 795, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+New Jersey, SSN 796, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Iowa, SSN 797, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774) 
+Massachusetts, SSN 798, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)
+Idaho, SSN 799, 774, S9G, 1, https://en.wikipedia.org/wiki/USS_Virginia_(SSN-774)

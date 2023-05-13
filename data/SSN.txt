@@ -1,0 +1,160 @@
+Name,Hull Nr.,Class,Builder,Shpbldg Prog. FY,Keel Laid,Launched,Comm'd,Decomm'd
+Nautilus, SSN 571, 571, Electric Boat, 1952, 06/14/52, 01/21/54, 09/30/54, 03/03/80
+Seawolf, SSN 575, 575, Electric Boat, 1953, 09/07/53, 07/21/55, 03/30/57, 03/31/87
+Skate, SSN 578, 578, Electric Boat, 1955, 07/21/55, 05/16/57, 12/23/57, 09/12/86
+Swordfish, SSN 579, 578, Portsmouth, 1955, 01/25/56, 08/27/57, 09/15/58, 06/02/89
+Sargo, SSN 583, 578, Mare Island, 1956, 02/21/56, 10/10/57, 10/01/58, 02/26/88
+Seadragon, SSN 584, 578, Portsmouth, 1956, 06/20/56, 08/16/58, 12/05/59, 06/12/84
+Skipjack, SSN 585, 585, Electric Boat, 1956, 05/29/56, 05/26/58, 04/15/59, 04/19/90
+Triton, SSN 586, 586, Electric Boat, 1956, 05/29/56, 08/19/58, 11/10/59, 04/30/86
+Halibut, SSN 587, 587, Mare Island, 1956, 04/11/57, 01/09/59, 01/04/60, 06/30/76
+Scamp, SSN 588, 585, Mare Island, 1957, 01/23/59, 10/08/60, 06/05/61, 04/28/88
+Scorpion, SSN 589, 585, Electric Boat, 1957, 08/20/58, 12/19/59, 07/29/60, 05/22/68
+Sculpin, SSN 590, 585, Ingalls, 1957, 02/03/58, 03/31/60, 06/01/61, 08/03/90
+Shark, SSN 591, 585, Newport News, 1957, 02/24/58, 03/16/60, 02/09/61, 09/15/90
+Snook, SSN 592, 585, Ingalls, 1957, 04/07/58, 10/31/60, 10/24/61, 10/16/86
+Permit, SSN 594, 594, Mare Island, 1958, 05/01/59, 07/01/61, 05/29/62, 07/23/91
+Thresher, SSN 593, 594, Portsmouth, 1957, 05/28/58, 07/09/60, 08/03/61, 04/10/63
+Plunger, SSN 595, 594, Mare Island, 1958, 03/02/60, 12/09/61, 11/21/62, 02/02/90
+Barb, SSN 596, 594, Ingalls, 1958, 11/09/59, 02/12/62, 08/24/63, 12/20/89
+Pollack, SSN 603, 594, NY Shipbuilding, 1959, 03/14/60, 03/17/62, 05/26/64, 03/01/89
+Haddo, SSN 604, 594, NY Shipbuilding, 1959, 09/09/60, 08/18/62, 12/16/64, 06/12/91
+Jack, SSN 605, 594, Portsmouth, 1959, 09/16/60, 04/24/63, 03/31/67, 07/11/90
+Tinosa, SSN 606, 594, Portsmouth, 1959, 11/24/59, 12/09/61, 11/17/64, 01/15/92
+Dace, SSN 607, 594, Ingalls, 1959, 06/06/60, 08/18/62, 04/04/64, 12/02/88
+Guardfish, SSN 612, 594, NY Shipbuilding, 1960, 02/28/61, 05/15/65, 12/20/66, 02/04/92
+Flasher, SSN 613, 594, Electric Boat, 1960, 04/14/61, 06/22/63, 07/22/66, 09/14/92
+Greenling, SSN 614, 594, Quincy, 1960, 08/15/61, 04/04/64, 11/03/67, 04/18/94
+Gato, SSN 615, 594, Quincy, 1960, 12/15/61, 05/14/64, 01/25/68, 04/25/96
+Haddock, SSN 621, 594, Ingalls, 1961, 04/24/61, 05/21/66, 12/22/67, 04/07/93
+Tullibee, SSN 597, 597, Electric Boat, 1958, 05/26/58, 04/27/60, 11/09/60, 06/18/88
+Sturgeon, SSN 637, 637, Electric Boat, 1962, 08/10/63, 02/26/66, 03/03/67, 08/01/94
+Whale, SSN 638, 637, Quincy, 1962, 05/27/64, 10/14/66, 10/12/68, 06/25/96
+Tautog, SSN 639, 637, Ingalls, 1962, 01/27/64, 04/15/67, 08/17/68, 03/31/97
+Grayling, SSN 646, 637, Portsmouth, 1963, 05/12/64, 06/22/67, 10/11/69, 07/18/97
+Pogy, SSN 647, 637, NY Ship/Ingalls, 1963, 05/05/64, 06/03/67, 05/15/71, 06/11/99
+Aspro, SSN 648, 637, Ingalls, 1963, 11/23/64, 11/29/67, 02/20/69, 03/31/95
+Sunfish, SSN 649, 637, Quincy, 1963, 01/15/65, 10/14/66, 03/15/69, 03/31/97
+Pargo, SSN 650, 637, Electric Boat, 1963, 06/03/64, 09/17/66, 01/05/68, 04/14/95
+Queenfish, SSN 651, 637, Newport News, 1963, 05/11/64, 02/25/66, 12/06/66, 04/14/92
+Puffer, SSN 652, 637, Ingalls, 1963, 02/08/65, 03/30/68, 08/09/69, 07/12/96
+Ray, SSN 653, 637, Newport News, 1963, 01/04/65, 06/21/66, 04/12/67, 03/16/93
+Sand Lance, SSN 660, 637, Portsmouth, 1964, 01/15/65, 11/11/69, 09/25/71, 08/07/98
+Lapon, SSN 661, 637, Newport News, 1964, 07/26/65, 12/16/66, 12/14/67, 08/08/92
+Gurnard, SSN 662, 637, Mare Island, 1964, 12/22/64, 05/20/67, 12/06/68, 04/28/95
+Hammerhead, SSN 663, 637, Newport News, 1964, 11/29/65, 04/14/67, 06/28/68, 04/05/95
+Sea Devil, SSN 664, 637, Newport News, 1964, 04/12/66, 10/05/67, 01/30/69, 10/16/91
+Guitarro, SSN 665, 637, Mare Island, 1965, 12/09/65, 07/27/68, 09/09/72, 05/29/92
+Hawkbill, SSN 666, 637, Mare Island, 1965, 09/12/66, 04/12/69, 02/04/71, 03/15/00
+Bergall, SSN 667, 637, Electric Boat, 1965, 04/16/66, 02/17/68, 06/13/69, 06/06/96
+Spadefish, SSN 668, 637, Newport News, 1965, 12/21/66, 05/15/68, 08/14/69, 04/11/97
+Seahorse, SSN 669, 637, Electric Boat, 1965, 08/13/66, 06/15/68, 09/19/69, 08/17/95
+Finback, SSN 670, 637, Newport News, 1965, 06/26/67, 12/07/68, 02/04/70, 03/28/97
+Pintado, SSN 672, 637, Mare Island, 1966, 10/27/67, 08/16/69, 09/11/71, 02/26/98
+Flying Fish, SSN 673, 637, Electric Boat, 1966, 06/30/67, 05/17/69, 04/29/70, 05/16/96
+Trepang, SSN 674, 637, Electric Boat, 1966, 10/28/67, 09/27/69, 08/14/70, 06/01/99
+Bluefish, SSN 675, 637, Electric Boat, 1966, 03/13/68, 01/10/70, 01/08/71, 05/31/96
+Billfish, SSN 676, 637, Electric Boat, 1966, 09/20/68, 05/01/70, 03/12/71, 07/01/99
+Drum, SSN 677, 637, Mare Island, 1966, 08/20/68, 05/23/70, 04/15/72, 10/30/95
+Archerfish, SSN 678, 637, Electric Boat, 1967, 06/19/69, 01/16/71, 12/17/71, 03/31/98
+Silversides, SSN 679, 637, Electric Boat, 1967, 10/13/69, 06/04/71, 05/05/72, 07/21/94
+William H. Bates, SSN 680, 637, Ingalls, 1967, 08/04/69, 12/11/71, 05/05/73, 02/11/00
+Batfish, SSN 681, 637, Electric Boat, 1967, 02/09/70, 10/09/71, 09/01/72, 03/17/99
+Tunny, SSN 682, 637, Ingalls, 1967, 05/22/70, 06/10/72, 01/26/74, 03/13/98
+Parche, SSN 683, 637, Ingalls, 1968, 12/10/70, 01/13/73, 08/17/74, 07/18/05
+Cavalla, SSN 684, 637, Electric Boat, 1968, 06/04/70, 02/19/72, 02/09/73, 03/30/98
+L. Mendel Rivers, SSN 686, 637, Newport News, 1969, 06/26/71, 06/02/73, 02/01/75, 05/10/01
+Richard B. Russell, SSN 687, 637, Newport News, 1969, 10/19/71, 01/12/74, 08/16/75, 06/24/94
+Narwhal, SSN 671, 671, Electric Boat, 1964, 01/17/66, 09/09/67, 07/12/69, 01/31/00
+Glenard P. Lipscomb, SSN 685, 685, Electric Boat, 1968, 06/05/71, 08/04/73, 12/21/74, 07/11/90
+Los Angeles, SSN 688, 688, Newport News, 1970, 01/08/72, 04/06/74, 11/13/76, 02/04/11
+Baton Rouge, SSN 689, 688, Newport News, 1970, 11/18/72, 04/26/75, 06/25/77, 01/13/95
+Philadelphia, SSN 690, 688, Electric Boat, 1970, 08/12/72, 10/19/74, 06/25/77, 06/30/11
+Memphis, SSN 691, 688, Newport News, 1971, 06/23/73, 04/03/76, 12/17/77, 1/20/12
+Omaha, SSN 692, 688, Electric Boat, 1971, 01/27/73, 02/21/76, 03/11/78, 10/05/95
+Cincinnati, SSN 693, 688, Newport News, 1971, 04/06/74, 02/19/77, 06/10/78, 07/31/95
+Groton, SSN 694, 688, Electric Boat, 1971, 08/03/73, 10/09/76, 07/08/78, 11/07/97
+Birmingham, SSN 695, 688, Newport News, 1972, 04/26/75, 10/29/77, 12/16/78, 12/23/97
+New York City, SSN 696, 688, Electric Boat, 1972, 12/15/73, 06/18/77, 03/03/79, 04/30/97
+Indianapolis, SSN 697, 688, Electric Boat, 1972, 10/19/74, 07/30/77, 01/05/80, 12/22/98
+Bremerton, SSN 698, 688, Electric Boat, 1972, 05/08/76, 07/22/78, 03/28/81, ———
+Jacksonville, SSN 699, 688, Electric Boat, 1972, 02/21/76, 11/18/78, 05/16/81, ———
+Dallas, SSN 700, 688, Electric Boat, 1973, 10/09/76, 04/28/79, 07/18/81, ———
+La Jolla, SSN 701, 688, Electric Boat, 1973, 10/16/76, 08/11/79, 10/24/81, ———
+Phoenix, SSN 702, 688, Electric Boat, 1973, 07/30/77, 12/08/79, 12/19/81, 07/29/98
+Boston, SSN 703, 688, Electric Boat, 1973, 08/11/78, 04/19/80, 01/30/82, 11/19/99
+Baltimore, SSN 704, 688, Electric Boat, 1973, 05/21/79, 12/13/80, 07/24/82, 07/10/98
+City of Corpus Christi, SSN 705, 688, Electric Boat, 1973, 09/04/79, 04/25/81, 01/08/83, ———
+Albuquerque, SSN 706, 688, Electric Boat, 1974, 12/27/79, 03/13/82, 05/21/83, ———
+Portsmouth, SSN 707, 688, Electric Boat, 1974, 05/08/80, 09/18/82, 10/01/83, 08/18/05
+Minneapolis–St. Paul, SSN 708, 688, Electric Boat, 1974, 01/20/81, 03/19/83, 03/10/84, 8/28/2008
+Hyman G. Rickover, SSN 709, 688, Electric Boat, 1974, 07/24/81, 08/27/83, 07/21/84, 12/17/07
+Augusta, SSN 710, 688, Electric Boat, 1974, 04/01/82, 01/21/84, 01/19/85, 02/11/09
+San Francisco, SSN 711, 688, Newport News, 1975, 05/26/77, 10/27/79, 04/24/81, ———
+Atlanta, SSN 712, 688, Newport News, 1975, 08/17/78, 08/16/80, 03/06/82, 12/16/99
+Houston, SSN 713, 688, Newport News, 1975, 01/29/79, 03/21/81, 09/25/82, ———
+Norfolk, SSN 714, 688, Newport News, 1976, 08/01/79, 10/31/81, 05/21/83, 12/11/2014
+Buffalo, SSN 715, 688, Newport News, 1976, 01/25/80, 05/08/82, 11/05/83, ———
+Salt Lake City, SSN 716, 688, Newport News, 1977, 08/26/80, 10/16/82, 05/12/84, 10/25/06
+Olympia, SSN 717, 688, Newport News, 1977, 03/31/81, 04/30/83, 11/17/84, ———
+Honolulu, SSN 718, 688, Newport News, 1977, 11/10/81, 09/24/83, 07/06/85, 10/30/07
+Providence, SSN 719, 688, Electric Boat, 1978, 10/14/82, 08/04/84, 07/27/85, ———
+Pittsburgh, SSN 720, 688, Electric Boat, 1979, 04/15/83, 12/08/84, 11/23/85, ———
+Chicago, SSN 721, 688, Newport News, 1980, 01/05/83, 10/13/84, 09/27/86, ———
+Key West, SSN 722, 688, Newport News, 1980, 07/06/83, 07/20/85, 09/12/87, ———
+Oklahoma City, SSN 723, 688, Newport News, 1981, 01/04/84, 11/02/85, 07/09/88, ———
+Louisville, SSN 724, 688, Electric Boat, 1981, 09/24/84, 12/14/85, 11/08/86, ———
+Helena, SSN 725, 688, Electric Boat, 1982, 03/28/85, 06/28/86, 07/11/87, ———
+Newport News, SSN 750, 688, Newport News, 1982, 03/03/84, 03/15/86, 06/03/89, ———
+San Juan, SSN 751, 688i2, Electric Boat, 1983, 08/09/85, 12/06/86, 08/06/88, ———
+Pasadena, SSN 752, 688i, Electric Boat, 1983, 12/20/85, 09/12/87, 02/11/89, ———
+Albany, SSN 753, 688i, Newport News, 1984, 04/22/85, 06/13/87, 04/07/90, ———
+Topeka, SSN 754, 688i, Electric Boat, 1984, 05/13/86, 01/23/88, 10/21/89, ———
+Miami, SSN 755, 688i, Electric Boat, 1984, 10/24/86, 11/12/88, 06/30/90, 03/28/14
+Scranton, SSN 756, 688i, Newport News, 1985, 08/29/86, 07/03/89, 01/26/91, ———
+Alexandria, SSN 757, 688i, Electric Boat, 1985, 06/19/87, 06/23/90, 06/29/91, ———
+Asheville, SSN 758, 688i, Newport News, 1985, 01/09/87, 02/24/90, 09/28/91, ———
+Jefferson City, SSN 759, 688i, Newport News, 1985, 09/21/87, 08/17/90, 02/29/92, ———
+Annapolis, SSN 760, 688i, Electric Boat, 1986, 06/15/88, 05/18/91, 04/11/92, ———
+Springfield, SSN 761, 688i, Electric Boat, 1986, 01/29/90, 01/04/92, 01/09/93, ———
+Columbus, SSN 762, 688i, Electric Boat, 1986, 01/09/91, 08/01/92, 07/24/93, ———
+Santa Fe, SSN 763, 688i, Electric Boat, 1986, 07/09/91, 12/12/92, 01/08/94, ———
+Boise, SSN 764, 688i, Newport News, 1987, 05/25/88, 03/23/91, 11/07/92, ———
+Montpelier, SSN 765, 688i, Newport News, 1987, 05/19/89, 08/23/91, 03/13/93, ———
+Charlotte, SSN 766, 688i, Newport News, 1987, 08/17/90, 10/03/92, 09/16/94, ———
+Hampton, SSN 767, 688i, Newport News, 1987, 03/02/90, 04/03/92, 11/16/93, ———
+Hartford, SSN 768, 688i, Electric Boat, 1988, 02/22/92, 12/04/93, 12/10/94, ———
+Toledo, SSN 769, 688i, Newport News, 1988, 05/06/91, 08/28/93, 02/24/95, ———
+Tucson, SSN 770, 688i, Newport News, 1988, 08/15/91, 03/20/94, 08/18/95, ———
+Columbia, SSN 771, 688i, Electric Boat, 1988, 04/21/93, 09/24/94, 10/09/95, ———
+Greeneville, SSN 772, 688i, Newport News, 1989, 02/28/92, 09/17/94, 02/16/96, ———
+Cheyenne, SSN 773, 688i, Newport News, 1990, 07/06/92, 04/16/95, 09/13/96, ———
+Seawolf, SSN 021, 021, Electric Boat, 1989, 10/25/89, 06/24/95, 07/19/97, ———
+Connecticut, SSN 022, 021, Electric Boat, 1991, 09/14/92, 09/01/97, 12/11/98, ———
+Jimmy Carter, SSN 023, 021, Electric Boat, 1996, 12/12/95, 05/13/04, 02/19/05, ———
+Virginia, SSN 774, 774, Electric Boat, 1998, 09/02/99, 08/07/03, 10/23/04, ———
+Texas, SSN 775, 774, Newport News, 1999, 07/12/02, 04/09/05, 09/09/06, ———
+Hawaii, SSN 776, 774, Electric Boat, 2001, 08/27/04, 04/28/06, 05/05/07, ———
+North Carolina, SSN 777, 774, Newport News, 2002, 05/22/04, 05/05/07, 05/03/08, ———
+New Hampshire, SSN 778, 774, Electric Boat, 2003, 04/30/07, 02/21/08, 10/25/08, ———
+New Mexico, SSN 779, 774, Newport News, 2004, 04/12/08, 01/07/09, 03/27/10, ———
+Missouri, SSN 780, 774, Electric Boat, 2005, 09/27/08, 11/20/09, 07/31/10, ———
+California, SSN 781, 774, Newport News, 2006, 05/01/09, 11/13/10, 10/29/11, ———
+Mississippi, SSN 782, 774, Electric Boat, 2007, 06/09/10, 10/13/11, 06/02/12, ———
+Minnesota, SSN 783, 774, Newport News, 2008, 05/20/11, 11/03/12, 09/07/13, ———
+North Dakota, SSN 784, 774, Electric Boat, 2009, 05/11/12, 09/15/13, 10/25/14, ———
+John Warner, SSN 785, 774, Newport News, 2010, 03/16/13, 09/10/14, 08/01/15, ———
+Illinois, SSN 786, 774, Electric Boat, 2011, 06/01/14, 08/07/15, ———, ———
+Washington, SSN 787, 774, Newport News, 2011, 11/22/14, ———, ———, ———
+Colorado, SSN 788, 774, Electric Boat, 2012, 03/07/15, ———, ———, ———
+Indiana, SSN 789, 774, Newport News, 2012, 05/16/15, ———, ———, ———
+South Dakota, SSN 790, 774, Electric Boat, 2013, ———, ———, ———, ———
+Delaware, SSN 791, 774, Newport News, 2013, ———, ———, ———, ———
+Vermont, SSN 792, 774, Electric Boat, 2014, ———, ———, ———, ———
+Oregon, SSN 793, 774, Electric Boat, 2014, ———, ———, ———, ———
+Montana, SSN 794, 774, Newport News, 2015, ———, ———, ———, ———
+Hyman G. Rickover, SSN 795, 774, Electric Boat, 2015, ———, ———, ———, ———
+New Jersey, SSN 796, 774, Newport News, 2016, ———, ———, ———, ———
+Iowa, SSN 797, 774, Electric Boat, 2016, ———, ———, ———, ———
+Massachusetts, SSN 798, 774, Newport News, 2017, ———, ———, ———, ———
+Idaho, SSN 799, 774, Electric Boat, 2017, ———, ———, ———, ———

@@ -1,0 +1,24 @@
+Name,Hull Nr.,Class,Reactor,Nr. Reactor,reference
+Submarine, NR-1, ———, ——,——,—— 
+Enterprise, CVN 65, 65, A2W, 8, https://www.jstor.org/stable/resrep14271.18?seq=1
+Nimitz, CVN 68, 68, A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Dwight D. Eisenhower, CVN 69, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Carl Vinson, CVN 70, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Theodore Roosevelt, CVN 71, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Abraham Lincoln, CVN 72, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+George Washington, CVN 73, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+John C. Stennis, CVN 74, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Harry S Truman, CVN 75, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Ronald Reagan, CVN 76, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+George H. W. Bush, CVN 77, 68,A4W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Gerald R. Ford, CVN 78, 78, A1B, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+John F. Kennedy, CVN 79, 78, A1B, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Long Beach, CGN 09, 09, C1W, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Bainbridge, CGN 25, 25, D2G, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Truxton, CGN 35, 35, D2G, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+California, CGN 36, 36, D2G, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+South Carolina, CGN 37, 36, D2G, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Virginia, CGN 38, 38, D2G, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Texas, CGN 39, 38, D2G, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Mississippi, CGN 40, 38, D2G, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
+Arkansas, CGN 41, 38, D2G, 2, https://www.jstor.org/stable/resrep14271.18?seq=1
