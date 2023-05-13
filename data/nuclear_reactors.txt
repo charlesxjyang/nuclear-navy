@@ -1,0 +1,148 @@
+Name,"Unit No.",Reactor Type,Reactor Model,Status,Net capacity (MW),Construction start,Commercial operation,Closure
+Arkansas Nuclear One,1,PWR,B & W (DRY-Cont),Operational,836,1 October 1968,21 May 1974,
+Arkansas Nuclear One,2,PWR,CE (DRY),Operational,988,6 December 1968,1 September 1978,
+Beaver Valley,1,PWR,WH 3-loop (DRY),Operational,908,26 June 1970,2 July 1976,
+Beaver Valley,2,PWR,WH 3-loop (DRY),Operational,905,3 May 1974,14 August 1987,
+Big Rock Point,1,BWR,BWR-1,Shut down/dismantled,67,1 May 1960,29 March 1963,29 August 1997
+Braidwood,1,PWR,WH 4-loop (DRY),Operational,1194,1 August 1975,29 July 1988,
+Braidwood,2,PWR,WH 4-loop (DRY),Operational,1160,1 August 1975,17 October 1988,
+Browns Ferry,1,BWR,BWR-4 (WET),Operational,1200,1 May 1967,1 August 1974,
+Browns Ferry,2,BWR,BWR-4 (WET),Operational,1200,1 May 1967,1 March 1975,
+Browns Ferry,3,BWR,BWR-4 (WET),Operational,1210,1 July 1968,1 March 1977,
+Brunswick,1,BWR,BWR-4 (WET),Operational,938,7 February 1970,18 March 1977,
+Brunswick,2,BWR,BWR-4 (WET),Operational,932,7 February 1970,3 November 1975,
+Byron,1,PWR,WH 4-loop (DRY),Operational,1164,1 April 1975,16 September 1985,
+Byron,2,PWR,WH 4-loop (DRY),Operational,1136,1 April 1975,2 August 1987,
+Callaway,1,PWR,WH 4-loop (DRY),Operational,1215,1 September 1975,19 December 1984,
+Calvert Cliffs,1,PWR,CE 2-loop (DRY),Operational,877,1 June 1968,8 May 1977,
+Calvert Cliffs,2,PWR,CE 2-loop (DRY),Operational,855,1 June 1968,1 April 1977,
+Carbon Free Power Project,1,PWR,NuScale,Planned,77,,(2029–2030),
+Carbon Free Power Project,2,PWR,NuScale,Planned,77,,(2029–2030),
+Carbon Free Power Project,3,PWR,NuScale,Planned,77,,(2029–2030),
+Carbon Free Power Project,4,PWR,NuScale,Planned,77,,(2029–2030),
+Carbon Free Power Project,5,PWR,NuScale,Planned,77,,(2029–2030),
+Carbon Free Power Project,6,PWR,NuScale,Planned,77,,(2029–2030),
+Catawba,1,PWR,WH 4-loop (ICECOND),Operational,1160,1 May 1974,29 June 1985,
+Catawba,2,PWR,WH 4-loop (ICECOND),Operational,1150,1 May 1974,19 August 1986,
+Clinch River,1,BWR,BWRX-300,Planned,180,,,
+Clinton,1,BWR,BWR-6 (WET),Operational,1062,1 October 1975,24 November 1987,
+Columbia,1,BWR,BWR-5 (WET),Operational,1131,1 August 1972,13 December 1984,
+Comanche Peak,1,PWR,WH 4-loop (DRY),Operational,1205,19 December 1974,13 August 1990,
+Comanche Peak,2,PWR,WH 4-loop (DRY),Operational,1195,19 December 1974,3 August 1993,
+Connecticut Yankee,1,PWR,WH (DRY),Shut down/dismantled,582,1 May 1964,1 January 1968,5 December 1996
+Cooper,1,BWR,BWR-4 (WET),Operational,769,1 June 1968,1 July 1974,
+Crystal River 3,1,PWR,B & W (DRY),Shut down,860,25 September 1968,13 March 1977,5 February 2013
+Davis-Besse,1,PWR,B & W (DRY),Operational,894,1 September 1970,31 July 1978,
+Diablo Canyon,1,PWR,WH 4-Loop (DRY),Operational,1138,23 April 1968,7 May 1985,
+Diablo Canyon,2,PWR,WH 4-Loop (DRY),Operational,1118,9 December 1970,13 March 1986,
+Donald C. Cook,1,PWR,WH 4-Loop (ICECOND),Operational,1020,25 March 1969,27 August 1975,
+Donald C. Cook,2,PWR,WH 4-Loop (ICECOND),Operational,1090,25 March 1969,1 July 1978,
+Dresden,1,BWR,BWR-1,Shut down,197,1 May 1956,4 July 1960,31 October 1978
+Dresden,2,BWR,BWR-3 (WET),Operational,894,10 January 1966,9 June 1970,
+Dresden,3,BWR,BWR-3 (WET),Operational,879,14 October 1966,16 November 1971,
+Duane Arnold,1,BWR,BWR-4 (WET),Shut down,601,22 May 1970,1 February 1975,10 August 2020
+Edwin I. Hatch,1,BWR,BWR-4 (WET),Operational,924,30 September 1968,31 December 1975,
+Edwin I. Hatch,2,BWR,BWR-4 (WET),Operational,924,1 February 1972,5 September 1979,
+Elk River,1,BWR,,Shut down/dismantled,22,1 January 1959,1 July 1964,1 February 1968
+Fermi,1,FBR,Prototype,Shut down,61,8 August 1956,7 August 1966,29 November 1972
+Fermi,2,BWR,BWR-4 (WET),Operational,1115,26 September 1972,23 January 1988,
+Fermi,3,BWR,ESBWR,Planned,1600,,,
+Fort Calhoun,1,PWR,CE 2-loop (WET),Shut down,482,7 June 1968,9 August 1973,24 October 2016
+Fort St. Vrain,1,HTGR,General Atomics,Shut down,330,1 September 1968,1 July 1979,29 August 1989
+Ginna,1,PWR,WH 2-loop (DRY),Operational,560,25 April 1966,1 June 1970,
+Grand Gulf,1,BWR,BWR-6 (WET),Operational,1401,4 May 1974,1 July 1985,
+H. B. Robinson,1,PWR,WH 3-loop (DRY),Operational,735,13 April 1967,7 March 1971,
+Hallam,1,SGR,Atomics International,Shut down/dismantled,75,1 January 1959,1 November 1963,1 September 1969
+Hope Creek,1,BWR,BWR-4 (WET),Operational,1172,1 March 1976,20 December 1986,
+Humboldt Bay,1,BWR,BWR-1,Shut down/dismantled,63,1 November 1960,1 August 1963,2 July 1976
+Indian Point,1,PWR,,Shut down,257,1 May 1956,1 October 1962,31 October 1974
+Indian Point,2,PWR,WH 4-loop (DRY),Shut down,998,14 October 1966,1 August 1974,30 April 2020
+Indian Point,3,PWR,WH 4-loop (DRY),Shut down,1030,1 November 1968,30 August 1976,30 April 2021
+James A. FitzPatrick,1,BWR,BWR-4 (WET),Operational,813,1 September 1968,28 July 1975,
+Joseph M. Farley,1,PWR,WH 3-Loop (DRY),Operational,874,1 October 1970,1 December 1977,
+Joseph M. Farley,2,PWR,WH 3-Loop (DRY),Operational,883,1 October 1970,30 July 1981,
+Kewaunee,1,PWR,WH 2-loop (DRY),Shut down,566,6 August 1968,16 June 1974,7 May 2013
+La Crosse,1,BWR,BWR-1,Shut down/dismantled,48,1 March 1963,7 November 1969,30 April 1987
+LaSalle County,1,BWR,BWR-5 (WET),Operational,1137,10 September 1973,1 January 1984,
+LaSalle County,2,BWR,BWR-5 (WET),Operational,1140,10 September 1973,19 October 1984,
+Limerick,1,BWR,BWR-5 (WET),Operational,1134,19 June 1974,1 February 1986,
+Limerick,2,BWR,BWR-5 (WET),Operational,1134,19 June 1974,8 January 1990,
+Maine Yankee,1,PWR,WH (DRY),Shut down/dismantled,860,1 October 1968,28 December 1972,1 August 1997
+McGuire,1,PWR,WH 4-Loop (ICECOND),Operational,1158,1 April 1971,1 December 1981,
+McGuire,2,PWR,WH 4-Loop (ICECOND),Operational,1158,1 April 1971,1 March 1984,
+Millstone,1,BWR,BWR-3 (WET),Shut down,641,1 May 1966,28 December 1970,21 July 1998
+Millstone,2,PWR,CE 2-loop (DRY),Operational,869,1 November 1969,26 December 1975,
+Millstone,3,PWR,WH 4-Loop (DRY),Operational,1210,9 August 1974,23 April 1986,
+Monticello,1,BWR,BWR-3 (WET),Operational,628,19 June 1967,30 June 1971,
+Naughton,1,SFR,Natrium,Planned,345,,,
+Nine Mile Point,1,BWR,BWR-2 (WET),Operational,613,12 April 1965,1 December 1969,
+Nine Mile Point,2,BWR,BWR-5 (WET),Operational,1277,1 August 1975,11 March 1988,
+North Anna,1,PWR,WH 3-Loop (DRY),Operational,948,19 February 1971,6 June 1978,
+North Anna,2,PWR,WH 3-Loop (DRY),Operational,944,19 February 1971,14 December 1980,
+North Anna,3,BWR,ESBWR,Planned,1500,,,
+Oconee,1,PWR,B & W (DRY),Operational,847,6 November 1967,15 July 1973,
+Oconee,2,PWR,B & W (DRY),Operational,848,6 November 1967,9 September 1974,
+Oconee,3,PWR,B & W (DRY),Operational,859,6 November 1967,16 December 1974,
+Oyster Creek,1,BWR,BWR-2 (WET),Shut down,619,15 December 1964,23 December 1969,17 September 2018
+Palisades,1,PWR,CE 2-loop (DRY),Shut down,805,14 March 1967,31 December 1971,20 May 2022
+Palo Verde,1,PWR,CE80 2-loop (DRY),Operational,1311,25 May 1976,28 January 1986,
+Palo Verde,2,PWR,CE80 2-loop (DRY),Operational,1314,1 June 1976,19 September 1986,
+Palo Verde,3,PWR,CE80 2-loop (DRY),Operational,1312,1 June 1976,8 January 1988,
+Parr,1,PHWR,CVTR,Shut down/dismantled,17,1 January 1960,18 December 1963,10 January 1967
+Pathfinder,1,BWR,BWR-1,Shut down/dismantled,59,1 January 1959,1 August 1966,1 October 1967
+Peach Bottom,1,GCR,Prototype,Shut down,40,1 February 1962,1 June 1966,1 November 1974
+Peach Bottom,2,BWR,BWR-4 (WET),Operational,1300,31 January 1968,5 July 1974,
+Peach Bottom,3,BWR,BWR-4 (WET),Operational,1331,31 January 1968,23 December 1974,
+Perry,1,BWR,BWR-6 (WET),Operational,1240,1 October 1974,18 November 1987,
+Pilgrim,1,BWR,BWR-3 (WET),Shut down,677,26 August 1968,9 December 1972,31 May 2019
+Piqua,1,OCR,Atomics International,Decommissioned,12,1 January 1960,1 November 1963,1 January 1966
+Point Beach,1,PWR,WH 2-loop (DRY),Operational,591,19 July 1967,21 December 1970,
+Point Beach,2,PWR,WH 2-loop (DRY),Operational,591,25 July 1968,1 October 1972,
+Prairie Island,1,PWR,WH 2-loop (DRY),Operational,522,25 June 1968,16 December 1973,
+Prairie Island,2,PWR,WH 2-loop (DRY),Operational,519,25 June 1969,21 December 1974,
+Quad Cities,1,BWR,BWR-4 (WET),Operational,908,15 February 1967,18 February 1973,
+Quad Cities,2,BWR,BWR-4 (WET),Operational,911,15 February 1967,10 March 1973,
+Rancho Seco,1,PWR,WH (DRY),Decommissioned,873,1 April 1969,17 April 1975,23 June 1989
+River Bend,1,BWR,BWR-6 (WET),Operational,967,25 March 1977,16 June 1986,
+Salem,1,PWR,WH 4-loop (DRY),Operational,1169,25 September 1968,30 June 1977,
+Salem,2,PWR,WH 4-loop (DRY),Operational,1158,25 September 1968,31 October 1981,
+San Onofre,1,PWR,WH (DRY),Shut down/dismantled,436,16 July 1964,1 January 1968,30 November 1992
+San Onofre,2,PWR,CE (DRY),Shut down,1070,1 March 1974,8 August 1983,7 June 2013
+San Onofre,3,PWR,CE (DRY),Shut down,1180,1 March 1974,1 April 1984,7 June 2013
+Saxton,1,PWR,,Decommissioned,3,1 January 1960,November 1961,May 1972
+Seabrook Station,1,PWR,WH 4-Loop (DRY),Operational,1246,7 July 1976,15 March 1990,
+Sequoyah,1,PWR,WH 4-Loop (ICECOND),Operational,1152,27 May 1970,1 July 1981,
+Sequoyah,2,PWR,WH 4-Loop (ICECOND),Operational,1139,27 May 1970,1 June 1982,
+Shearon Harris,1,PWR,WH 3-Loop (DRY),Operational,964,28 January 1978,2 May 1987,
+Shippingport,1,PWR,WH,Shut down/dismantled,60,6 September 1954,26 May 1958,December 1989
+Shoreham,1,BWR,GE,Shut down,820,1 November 1972,1 August 1986,1 May 1989
+SRE,1,FBR,,Decommissioned,6.5,1954,12 July 1957,15 February 1964
+South Texas,1,PWR,WH 4-loop (DRY),Operational,1280,22 December 1975,25 August 1988,
+South Texas,2,PWR,WH 4-loop (DRY),Operational,1280,22 December 1975,19 June 1989,
+St. Lucie,1,PWR,CE (DRY),Operational,981,1 July 1970,1 March 1976,
+St. Lucie,2,PWR,CE (DRY),Operational,987,2 June 1977,10 June 1983,
+Surry,1,PWR,WH 3-loop (DRY),Operational,838,25 June 1968,22 December 1972,
+Surry,2,PWR,WH 3-loop (DRY),Operational,838,25 June 1968,1 May 1973,
+Susquehanna,1,BWR,BWR-5 (WET),Operational,1257,2 November 1973,12 November 1982,
+Susquehanna,2,BWR,BWR-5 (WET),Operational,1257,2 November 1973,27 June 1984,
+Three Mile Island,1,PWR,B & W (DRY),Shut down,819,18 May 1968,2 September 1974,20 September 2019
+Three Mile Island,2,PWR,B & W (DRY),Core melt,880,1 November 1969,30 December 1978,1979
+Trojan,1,PWR,WH (DRY),Shut down/dismantled,1095,1 February 1970,20 May 1976,1992
+Turkey Point,1,PWR,WH 3-loop (DRY),Operational,837,27 April 1967,14 December 1972,
+Turkey Point,2,PWR,WH 3-loop (DRY),Operational,821,27 April 1967,7 September 1973,
+Turkey Point,3,PWR,AP1000,Planned,1100,,,
+Turkey Point,4,PWR,AP1000,Planned,1100,,,
+Vallecitos,1,BWR,BWR-1,Shut down,25,1 January 1956,19 October 1957,9 December 1963
+Vermont Yankee,1,BWR,BWR-4 (WET),Shut down,605,11 December 1967,30 November 1972,29 December 2014
+Virgil C. Summer,1,PWR,WH 3-Loop (DRY),Operational,1000,21 March 1973,1 January 1984,
+Vogtle,1,PWR,WH 4-Loop (DRY),Operational,1150,1 August 1976,1 June 1987,
+Vogtle,2,PWR,WH 4-Loop (DRY),Operational,1152,1 August 1976,20 May 1989,
+Vogtle,3,PWR,AP1000,Under commissioning,1117,12 March 2013,(2023),
+Vogtle,4,PWR,AP1000,Under construction,1117,19 November 2013,(2023),
+Waterford,1,PWR,CE 2-loop (DRY),Operational,1168,14 November 1974,24 September 1985,
+Watts Bar,1,PWR,WH 4-Loop (ICECOND),Operational,1157,20 July 1973,27 May 1996,
+Watts Bar,2,PWR,WH 4-Loop (ICECOND),Operational,1164,1 September 1973,4 June 2016,
+Wolf Creek,1,PWR,WH 4-Loop (DRY),Operational,1200,31 May 1977,3 September 1985,
+Yankee Rowe,1,PWR,WH (DRY),Shut down/dismantled,167,1 November 1957,1 July 1961,1 October 1991
+Zion,1,PWR,WH (DRY),Shut down/dismantled,1040,1 December 1968,31 December 1973,13 February 1998
+Zion,2,PWR,WH (DRY),Shut down/dismantled,1040,1 December 1968,17 September 1974,13 February 1998
