@@ -3,6 +3,9 @@ from datetime import timedelta, datetime
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
+import textwrap
+
+import matplotlib.font_manager
 
 #preprocessing for the nuclear navy data
 
@@ -49,6 +52,7 @@ df = pd.read_table("data/nuclear_reactors.txt", delimiter=',')
 df = df[(df['Status'] != 'Planned') & (df['Status'] != 'Under commissioning') &
         (df['Status'] != 'Under construction')]
 
+# more times in year
 df['Commercial operation'] = pd.to_datetime(df['Commercial operation'],
                                             dayfirst=True,
                                             format='mixed')
@@ -64,6 +68,11 @@ df['Year_Diff'] = df['Diff'] / pd.Timedelta(days=365.25)
 
 naval_df['Diff'] = naval_df[r"Comm'd"] - naval_df['Keel Laid']
 naval_df['Year_Diff'] = naval_df['Diff'] / pd.Timedelta(days=365.25)
+
+# trying gantt chart
+df['construction_capacity'] = df['Net capacity (MW)'] / df['Year_Diff']
+naval_df[
+  'construction_capacity'] = naval_df['Total MW'] / naval_df['Year_Diff']
 
 
 def plot(navy_col="Year_Comm", civilian_col="Year_Commercial"):
@@ -99,9 +108,7 @@ def plot(navy_col="Year_Comm", civilian_col="Year_Commercial"):
   subset_df.sort_values(civilian_col, inplace=True)
 
   # plot
-  fig, ax = plt.subplots()
-
-  width = 0.5  # the width of the bars]
+  fig, ax = plt.subplots(figsize=(10, 8))  # Adjust size as needed
   # replace zero with nan to prevent line graph from dropping
   naval_reactors.loc[naval_reactors['Total MW'] == 0.0, 'Total MW'] = np.nan
   ax.plot(naval_reactors[navy_col],
@@ -115,20 +122,41 @@ def plot(navy_col="Year_Comm", civilian_col="Year_Commercial"):
   #                 label='Navy', alpha=0.7)
   rects2 = ax.bar(subset_df[civilian_col],
                   subset_df["Net capacity (MW)"],
-                  width,
-                  label='Civilian Fleet',
+                  label='Civilian Nuclear',
                   alpha=0.7)
-
-  ax.set_xlabel('Year')
+  ax.set_xlabel('Year', fontsize=14)
   ax.set_yscale("log", nonpositive='clip')
-  ax.set_ylabel('Nameplate Nuclear Capacity Installed (MW)')
-  ax.set_title('Nuclear Reactors in US, 1952-2015')
+  ax.set_ylabel('Total Nameplate Nuclear Capacity Installed (MW)', fontsize=14)
+  #ax.set_title('Nuclear Reactors in US, 1952-2015')
   ax.legend()
+  ax.tick_params(axis='both', which='major', labelsize=12)
+
+  # Adjust the bottom margin of the plot to make room for the footnotes
+  plt.subplots_adjust(bottom=0.15)
+
+  # Adjust the y-coordinate of the footnotes to place them within the new bottom margin
+  footnote_left = "Year is based on when the reactor commenced commerical operation or the vessel was commissioned. The data and references to recreate this plot are here: https://github.com/charlesxjyang/nuclear-navy"
+  # Wrap the text to 60 characters
+  wrapper = textwrap.TextWrapper(width=80)
+  footnote_left = wrapper.fill(text=footnote_left)
+  ax.text(0,
+          -0.18,
+          footnote_left,
+          transform=ax.transAxes,
+          ha='left',
+          va='bottom',
+          fontsize=8)
+
+  footnote_right = "Charles Yang\n@charlesxjyang"
+  ax.text(1,
+          -0.16,
+          footnote_right,
+          transform=ax.transAxes,
+          ha='right',
+          va='bottom',
+          fontsize=8)
 
   plt.savefig("graph.png")
-
-
-plot("Year_Keel", civilian_col='Year_Construction')
 
 
 def plot_construction(navy_col="Year_Comm", civilian_col="Year_Commercial"):
@@ -163,9 +191,7 @@ def plot_construction(navy_col="Year_Comm", civilian_col="Year_Commercial"):
   subset_df.sort_values(civilian_col, inplace=True)
 
   # plot
-  fig, ax = plt.subplots()
-
-  width = 0.5  # the width of the bars]
+  fig, ax = plt.subplots(figsize=(10, 8))  # Adjust size as needed
   # replace zero with nan to prevent line graph from dropping
   naval_reactors.loc[naval_reactors['Year_Diff'] == 0.0, 'Year_Diff'] = np.nan
   ax.plot(naval_reactors[navy_col],
@@ -179,17 +205,56 @@ def plot_construction(navy_col="Year_Comm", civilian_col="Year_Commercial"):
   #                 label='Navy', alpha=0.7)
   rects2 = ax.bar(subset_df[civilian_col],
                   subset_df['Year_Diff'],
-                  width,
                   label='Civilian Fleet',
                   alpha=0.7)
-
-  ax.set_xlabel('Year')
-  #ax.set_yscale("log", nonpositive='clip')
-  ax.set_ylabel('Construction Time')
-  ax.set_title('Nuclear Reactors in US, 1952-2015')
+  ax.tick_params(axis='both', which='major', labelsize=12)
+  ax.set_xlabel('Year', fontsize=14)
+  ax.set_ylabel('Construction Time', fontsize=14)
+  #ax.set_title('Nuclear Reactors in US, 1952-2015')
   ax.legend()
+
+  # Adjust the bottom margin of the plot to make room for the footnotes
+  plt.subplots_adjust(bottom=0.15)
+  footnote_left = "Year is based on when the reactor commenced commerical operation or the vessel was commissioned. Construction time is the difference between construction start and commercial operation or keel laid to commissioning. The data and references to recreate this plot are here: https://github.com/charlesxjyang/nuclear-navy"
+  wrapper = textwrap.TextWrapper(width=80)
+  footnote_left = wrapper.fill(text=footnote_left)
+  ax.text(0,
+          -0.19,
+          footnote_left,
+          transform=ax.transAxes,
+          ha='left',
+          va='bottom',
+          fontsize=8)
+
+  footnote_right = "Charles Yang\n@charlesxjyang"
+  ax.text(1,
+          -0.16,
+          footnote_right,
+          transform=ax.transAxes,
+          ha='right',
+          va='bottom',
+          fontsize=8)
 
   plt.savefig("graph_construction.png")
 
 
+def gantt():
+  # create a DataFrame of zeros with a column for each project
+  stack_df = pd.DataFrame(np.zeros((len(days), len(df))),
+                          index=days,
+                          columns=df['project'])
+
+  # for each project, set the rate in stack_df for the project's duration
+  for i, row in df.iterrows():
+    stack_df.loc[row['start_date']:row['end_date'],
+                 row['project']] = row['rate']
+
+  # plot the stacked area chart
+  stack_df.plot.area()
+  plt.xlabel('Date')
+  plt.ylabel('Amount/Time')
+  plt.show()
+
+
+plot()
 plot_construction()
