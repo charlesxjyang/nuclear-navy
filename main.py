@@ -238,7 +238,7 @@ def plot_construction(navy_col="Year_Comm", civilian_col="Year_Commercial"):
   plt.savefig("graph_construction.png")
 
 
-def gantt():
+def gantt(): #incomplete TODO
   # create a DataFrame of zeros with a column for each project
   stack_df = pd.DataFrame(np.zeros((len(days), len(df))),
                           index=days,
